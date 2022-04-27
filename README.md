@@ -1,7 +1,7 @@
 ### Olá a todos! 👋
 
 - 🔭 começando a trabalhar com full stack
-- 🌱 Estudando c#, python, e back-end
+- 🌱 Estudando c#, python, e front-end
 - 👯 me chame no email: felipesoaresdeoliveira13@gmail.com
 
 <div align="center">
