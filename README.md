@@ -1,6 +1,6 @@
 ### Olá a todos! 👋
 
-- 🌱 Estudando c#, e full-stack
+- 🌱 Estudando c#, pyton, javascript e front-end
 - 👯 me chame no email: felipesoaresdeoliveira13@gmail.com
 
 <div align="center">
