@@ -19,11 +19,7 @@
 <br>
 
 <p align="center">
-
-- **Languages**:
-
-
-<br>   
+  
     
 - **Front-End Development**:
 
