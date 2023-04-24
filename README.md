@@ -6,10 +6,10 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- Eu sou um desenvolvedor front-end iniciante, atualmente estudando no IFPR.
-- Embora eu não tenha experiência profissional na área, estou constantemente buscando aprimorar minhas habilidades por meio de cursos online, projetos pessoais e colaborações com outros desenvolvedores. 
-- Meu conhecimento atual inclui HTML, CSS e JavaScript.
-- Estou empolgado em explorar novas tecnologias e ferramentas, sempre buscando maneiras de melhorar minhas habilidades como desenvolvedor front-end e contribuir para a comunidade de desenvolvimento WEB.
+- Eu sou um desenvolvedor front-end iniciante, atualmente estudando no IFPR. </p>
+- Embora eu não tenha experiência profissional na área, estou constantemente buscando aprimorar minhas habilidades por meio de cursos online, projetos pessoais e colaborações com outros desenvolvedores. </p>
+- Meu conhecimento atual inclui HTML, CSS e JavaScript.</p>
+- Estou empolgado em explorar novas tecnologias e ferramentas, sempre buscando maneiras de melhorar minhas habilidades como desenvolvedor front-end e contribuir para a comunidade de desenvolvimento WEB.</p>
 
 <br><br>
 
@@ -76,8 +76,8 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/felipe-soares-249799253/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="[https://linkedin.com/in/Felipe Soares](https://www.linkedin.com/in/felipe-soares-249799253/)" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Felipe Soares-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
