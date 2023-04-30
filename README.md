@@ -3,8 +3,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 - Eu sou um desenvolvedor front-end iniciante, atualmente estudando no IFPR. </p>
 - Embora eu não tenha experiência profissional na área, estou constantemente buscando aprimorar minhas habilidades por meio de cursos online, projetos pessoais e colaborações com outros desenvolvedores. </p>
