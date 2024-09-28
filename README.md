@@ -36,7 +36,19 @@ Meu nome é Felipe, Sou um desenvolvedor front-end, estudando no IFPR. Tenho con
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,figma,git,github,postgres,java,nodejs,react,unity,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,postgres,java,unity,vscode&perline=14" />
+  </a>
+</p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Estou estudando no momento</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,react&perline=14" />
   </a>
 </p>
 
