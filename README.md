@@ -52,14 +52,14 @@ Meu nome é Felipe, Sou um desenvolvedor front-end, estudando no IFPR. Tenho con
   </a>
 </p>
 
-## <b>Entre em contato!</b><img src="" width ="80">
+## <b>Entre em contato!</b>
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/Felipe Soares](https://www.linkedin.com/in/felipe-soares-249799253/)" target="_blank">
+<a href="https://www.linkedin.com/in/felipe-soares-249799253/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Felipe Soares-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
