@@ -3,7 +3,9 @@
 	
 ## **Sobre mim**
 
-Meu nome é Felipe, Sou um desenvolvedor front-end, estudando no IFPR. Tenho conhecimento em HTML, CSS e JavaScript, e estou sempre aprimorando minhas habilidades por meio de cursos online e projetos pessoais. Meu foco é crescer como desenvolvedor e contribuir para a comunidade de desenvolvimento.</p>
+Olá! Meu nome é Felipe, sou um desenvolvedor full stack Jr formado no IFPR e cursando engenharia de software. Minha jornada na tecnologia começou com HTML, CSS e JavaScript, mas ao longo do tempo expandi meus conhecimentos para o back-end, com SQL.
+
+Atualmente, estou focado no desenvolvimento full stack, combinando tecnologias de front-end e back-end para entregar soluções modernas e eficientes. Estou sempre buscando aprender novas ferramentas, e aprimorar meus cohecimentos na programação e desenvolver projetos.</p>
  
 <br><br>
 
