@@ -3,9 +3,8 @@
 	
 ## **Sobre mim**
 
-Olá! Meu nome é Felipe, sou um desenvolvedor full stack Jr formado no IFPR e cursando engenharia de software. Minha jornada na tecnologia começou com HTML, CSS e JavaScript, mas ao longo do tempo expandi meus conhecimentos para o back-end, com SQL.
-
-Atualmente, estou focado no desenvolvimento full stack, combinando tecnologias de front-end e back-end para entregar soluções modernas e eficientes. Estou sempre buscando aprender novas ferramentas, e aprimorar meus cohecimentos na programação e desenvolver projetos.</p>
+Olá! Meu nome é Felipe, sou um desenvolvedor full stack Jr formado no IFPR e cursando engenharia de software. Minha jornada na tecnologia começou com HTML, CSS e JavaScript, mas ao longo do tempo expandi meus conhecimentos para o back-end, com SQL, atualmente estou estudando frameworks como REACT e TYPESCRIPT além de NODEJS.
+Estou focado no desenvolvimento full stack, combinando tecnologias de front-end e back-end para entregar soluções modernas e eficientes. Estou sempre buscando aprender novas ferramentas, e aprimorar meus cohecimentos na programação e desenvolver projetos.</p>
  
 <br><br>
 
