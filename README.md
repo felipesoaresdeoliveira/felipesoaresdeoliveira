@@ -62,7 +62,7 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
 
 <li>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-soares-249799253/" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesoares03/" alt=linkedin: Felipe Soares style="margin-bottom: 5px;"/>
 </a>
 </li>
 <li>
