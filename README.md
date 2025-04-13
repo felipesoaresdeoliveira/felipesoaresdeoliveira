@@ -54,7 +54,7 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
   </a>
 </p>
 
-## <b>Entre em contato!</b>
+## <b>contato!</b>
 <br>
 <div align='left'>
 
@@ -62,7 +62,7 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
 
 <li>
 <a href="https://www.linkedin.com/in/felipe-soares-249799253/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Felipe Soares-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Felipe Soares" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 <li>
