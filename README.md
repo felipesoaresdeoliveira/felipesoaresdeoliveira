@@ -62,7 +62,7 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
 
 <li>
 <a href="https://www.linkedin.com/in/felipesoares03/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  felipesoaresdeoliveira13@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin:  Felipe Soares-%23EA4335.svg?style=for-the-badge&logo=linkedin&logoColor=blue" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 <li>
