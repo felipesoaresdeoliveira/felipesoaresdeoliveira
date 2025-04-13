@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Olá, Bem-vindo(a) ao meu perfil  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 	
-## **Sobre mim**
+<h1 align="center"><b>Sobre mim</b></h1>
 
 Olá! Meu nome é Felipe, sou um desenvolvedor full stack Jr formado no IFPR e cursando engenharia de software. Minha jornada na tecnologia começou com HTML, CSS e JavaScript, mas ao longo do tempo expandi meus conhecimentos para o back-end, com SQL, atualmente estou estudando frameworks como REACT e TYPESCRIPT além de NODEJS.
 
@@ -50,7 +50,7 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
   </a>
 </p>
 
-## <b align="center">contato!</b>
+<h1 align="center"><b>contato!</b></h1>
 <div align="center">
   <a href="https://www.instagram.com/felipesoares_03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href=https://www.linkedin.com/in/felipesoares03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
