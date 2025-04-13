@@ -29,25 +29,21 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
 
 </p>        
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologias que possuo experiência👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postgres,java,php&perline=14" />
   </a>
 </p>
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Estou estudando no momento</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,python,js&perline=14" />
@@ -55,30 +51,10 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
 </p>
 
 ## <b>contato!</b>
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/felipesoares03/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Felipe Soares-%23EA4335.svg?style=for-the-badge&logo=linkedin&logoColor=blue" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-<li>
-<a href="mailto:felipesoaresdeoliveira13@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  felipesoaresdeoliveira13@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+<div align="center">
+  <a href="https://www.instagram.com/felipesoares_03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href=https://www.linkedin.com/in/felipesoares03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:felipesoaresdeoliveira206@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
 
 
