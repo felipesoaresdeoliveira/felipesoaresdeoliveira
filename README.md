@@ -38,7 +38,7 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postgres,MySql,java&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postgres,MySql,java,php&perline=14" />
   </a>
 </p>
 <!--h1 without bottom border-->
@@ -50,7 +50,7 @@ Estou focado no desenvolvimento full stack, combinando tecnologias de front-end 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,python,js&perline=14" />
   </a>
 </p>
 
