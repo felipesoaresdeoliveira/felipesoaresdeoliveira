@@ -3,9 +3,7 @@
 	
 <h1 align="center"><b>Sobre mim</b></h1>
 
-Olá! Meu nome é Felipe, sou um desenvolvedor full stack Jr formado no IFPR e cursando engenharia de software. Minha jornada na tecnologia começou com HTML, CSS e JavaScript, mas ao longo do tempo expandi meus conhecimentos para o back-end, com SQL, atualmente estou estudando frameworks como REACT e TYPESCRIPT além de NODEJS.
-
-Estou focado no desenvolvimento full stack, combinando tecnologias de front-end e back-end para entregar soluções modernas e eficientes. Estou sempre buscando aprender novas ferramentas, e aprimorar meus cohecimentos na programação e desenvolver projetos.</p>
+Sou Felipe Soares de Oliveira, estudante de Sistemas de Informação na UNIPAR. Tenho formação técnica em Informática pelo IFPR. Atualmente, estou me aprofundando em desenvolvimento full stack e busco aplicar meus conhecimentos em projetos práticos. Tenho experiência acadêmica trabalhando com linguagens como HTML, CSS, JavaScript, PHP e MySQL. Tenho facilidade em aprender, gosto de trabalhar em equipe e estou sempre em busca de novos desafios que me façam evoluir profissionalmente.</p>
  
 <br><br>
 
